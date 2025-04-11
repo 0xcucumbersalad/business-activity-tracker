@@ -1,0 +1,55 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1726999110208,
+      "tag": "0000_slim_sir_ram",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1727000710081,
+      "tag": "0001_dizzy_la_nuit",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1727000767477,
+      "tag": "0002_far_nitro",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1734130592794,
+      "tag": "0003_optimal_sharon_ventura",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1734130878513,
+      "tag": "0004_nappy_dark_phoenix",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1734131006080,
+      "tag": "0005_thankful_killmonger",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "6",
+      "when": 1743595764751,
+      "tag": "0006_modern_revanche",
+      "breakpoints": true
+    }
+  ]
+}
